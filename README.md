@@ -7,7 +7,7 @@ The Turtle Race Project is an interactive Python program that uses the turtle gr
 - Random Module: Used to assign random speeds to the turtles during the race.
 ## Screenshots
 <div style="display: flex; justify-content: space-around; flex-wrap: wrap;">
-  <img src="The Turtle Race/Screenshots/ss2.png" style="max-width: 45%; height: auto; margin: 10px;" alt="Screenshot 1">
-  <img src="The Turtle Race/Screenshots/ss1.png" style="max-width: 45%; height: auto; margin: 10px;" alt="Screenshot 2">
+  <img src="The Turtle Race/Screenshots/ss2.png" style="max-width: 100%; height: auto; margin: 10px;" alt="Screenshot 1">
+  <img src="The Turtle Race/Screenshots/ss1.png" style="max-width: 100%; height: auto; margin: 10px;" alt="Screenshot 2">
 </div>
 
